@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "chemi ponti";
+    src: url("fonts/Merriweather-Regular.ttf");
+}
+.h2{
+    font-family:"chemi ponti";
+}
+@font-face {
+    font-family: "meore";
+    src: url("fonts/OldStandardTT-Regular.ttf");
+}
+.p{
+    font-family: "moere";
+}
+.a{
+    font-family: "moere";
+}
